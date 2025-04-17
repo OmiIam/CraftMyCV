@@ -1,6 +1,6 @@
-# ResumaAI
+# CraftMyCV
 
-**ResumaAI** is an open-source, AI-enhanced resume builder designed for speed, simplicity, and extensibility. Built with a minimalistic interface and modern tech stack, it helps users craft clean, professional resumes with smart suggestions powered by OpenAI.
+**CraftMyCV** is an open-source, AI-enhanced resume builder designed for speed, simplicity, and extensibility. Built with a minimalistic interface and modern tech stack, it helps users craft clean, professional resumes with smart suggestions powered by OpenAI.
 
 ## ✨ Features
 
